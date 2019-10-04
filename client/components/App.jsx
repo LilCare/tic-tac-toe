@@ -8,7 +8,16 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hello, world!</h1>
+        <div id="container">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
       </div>
     );
   }
